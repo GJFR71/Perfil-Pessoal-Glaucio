@@ -127,6 +127,32 @@ aside a:hover {
   color: var(--cor-destaque);
 }
 
+/* ÍCONES DE REDES */
+.icones-redes {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.icones-redes a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+  font-size: 18px;
+  transition: background-color 0.3s, transform 0.3s;
+  text-decoration: none;
+}
+
+.icones-redes a:hover {
+  background-color: var(--cor-destaque);
+  transform: scale(1.1);
+}
+
 /* RODAPÉ */
 footer {
   text-align: center;
@@ -146,5 +172,25 @@ footer {
     width: 100px;
     height: 100px;
   }
+}
+
+/* ANIMAÇÃO */
+section, aside, header {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+a:hover {
+  opacity: 0.8;
 }
 
