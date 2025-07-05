@@ -1,4 +1,4 @@
-# perfil-pessoal-glaucio
+# Perfil-Pessoal-Glaucio
 
 Este repositório foi criado para a **Atividade 4** do curso na plataforma Codifica Edu. O objetivo é desenvolver uma página de perfil pessoal utilizando HTML5 e CSS3, com boas práticas de estrutura semântica, responsividade e estilo moderno.
 
