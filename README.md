@@ -1,27 +1,61 @@
-# Perfil-Pessoal-Glaucio
+# Perfil Pessoal — Glaucio Rosa
 
-Este repositório foi criado para a **Atividade 4** do curso na plataforma Codifica Edu. O objetivo é desenvolver uma página de perfil pessoal utilizando HTML5 e CSS3, com boas práticas de estrutura semântica, responsividade e estilo moderno.
+Este repositório reúne os arquivos da minha página pessoal, desenvolvida para apresentar minha atuação profissional como **Estatístico e Cientista de Dados**.
 
-## 📁 Arquivos no repositório
+A página funciona como um portfólio digital simples, com informações sobre minha formação, áreas de atuação, serviços, projetos aplicados e canais de contato.
 
-- `perfil.html` — Estrutura principal da página com tags semânticas
-- `styles.css` — Estilo visual com uso de Flexbox, variáveis CSS e media queries
-- `sua-foto.jpg` — Imagem de perfil (deve estar na raiz)
-- `favicon.png` — Ícone de aba do navegador (opcional)
+## Objetivo
 
-## 💡 Conteúdo da página
+Apresentar, de forma clara e acessível, minha atuação em:
 
-- Cabeçalho com nome, foto e links de navegação
-- Seções temáticas: Sobre mim, Habilidades, Projetos, Contato
-- Artigos detalhados com descrição dos projetos
-- Rodapé com direitos autorais
-- Estilo responsivo e moderno com transições suaves
+* Estatística Aplicada;
+* Inteligência de Dados;
+* Ciência de Dados;
+* Machine Learning e Inteligência Artificial;
+* Business Intelligence;
+* Consultoria Acadêmica.
 
-## 👨‍💻 Autor
+O foco da página é demonstrar como a Estatística pode apoiar decisões baseadas em dados, reduzindo o empirismo e tornando análises, pesquisas e processos de gestão mais consistentes.
 
-**Glaucio Jorge Ferreira Rosa**  
-Estatístico | Cientista de Dados  
-Email: glauciojorge@uol.com.br  
-[LinkedIn](https://www.linkedin.com/in/glaucio-rosa)
+## Estrutura do projeto
+
+* `perfil.html` — estrutura principal da página;
+* `styles.css` — estilos visuais da página;
+* `minha_foto.jpeg` — imagem de perfil;
+* `favicon.ico` — ícone da aba do navegador.
+
+## Conteúdo da página
+
+A página está organizada nas seguintes seções:
+
+* **Sobre mim** — apresentação profissional e trajetória;
+* **Atuação** — principais áreas de trabalho;
+* **Serviços** — soluções para empresas, negócios e pesquisa acadêmica;
+* **Projetos** — exemplos de aplicações em Estatística, Ciência de Dados e IA;
+* **Contato** — canais para comunicação profissional.
+
+## Tecnologias utilizadas
+
+* HTML5;
+* CSS3;
+* Font Awesome;
+* Google Fonts;
+* GitHub Pages.
+
+## Autor
+
+**Glaucio Jorge Ferreira Rosa**
+Estatístico | Cientista de Dados
+CONRE 11357
+
+📧 Email: [glauciojorge@uol.com.br](mailto:glauciojorge@uol.com.br)
+🔗 LinkedIn: [glaucio-rosa](https://www.linkedin.com/in/glaucio-rosa)
+💻 GitHub: [GJFR71](https://github.com/GJFR71)
+
+## Página publicada
+
+Acesse a página em:
+
+[Perfil Pessoal — Glaucio Rosa](https://gjfr71.github.io/Perfil-Pessoal-Glaucio/perfil.html)
 
 > “Sem dados, você é apenas mais uma pessoa com uma opinião.” — W. Edwards Deming
